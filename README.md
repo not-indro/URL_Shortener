@@ -1,6 +1,6 @@
 # # URL Shortener
 
-![URL Shortener Logo](url_shortener_logo.png) <!-- Replace with your logo or an appropriate image -->
+![URL Shortener Logo](https://github.com/not-indro/URL_Shortener/blob/main/URL.png) <!-- Replace with your logo or an appropriate image -->
 
 A simple and efficient URL Shortener built using [Streamlit](https://streamlit.io/) and [Python](https://www.python.org/). Easily convert long URLs into short, shareable links.
 
